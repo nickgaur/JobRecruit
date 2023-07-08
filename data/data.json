@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Nick Gaur",
+        "jobRole": "Data Analyst",
+        "city": "Chandigarh"
+    },
+    {
+        "name": "Sohail Khan",
+        "jobRole": "Data Analyst",
+        "city": "Chandigarh"
+    },
+    {
+        "name": "Yash Choudhary",
+        "jobRole": "Data Analyst",
+        "city": "Chandigarh"
+    },
+    {
+        "name": "Akshay Gupta",
+        "jobRole": "SDE",
+        "city": "Pune"
+    },
+    {
+        "name": "Srinivasan",
+        "jobRole": "Cloud Analyst",
+        "city": "Chennai"
+    },
+    {
+        "name": "Raheem Lukka",
+        "jobRole": "SDE",
+        "city": "Chandigarh"
+    },
+    {
+        "name": "Rajul Sharma",
+        "jobRole": "Data Analyst",
+        "city": "Delhi"
+    },
+    {
+        "name": "Akash Gupta",
+        "jobRole": "Cloud Analyst",
+        "city": "Pune"
+    },
+    {
+        "name": "Akshi Sharma",
+        "jobRole": "Data Analyst",
+        "city": "Chennai"
+    },
+    {
+        "name": "Shreya Bansal",
+        "jobRole": "SDE",
+        "city": "Chandigarh"
+    },
+    {
+        "name": "Rashmi Jain",
+        "jobRole": "Cloud Analyst",
+        "city": "Pune"
+    }
+]
