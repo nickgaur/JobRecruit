@@ -5,19 +5,14 @@
         "city": "Chandigarh"
     },
     {
-        "name": "Sohail Khan",
-        "jobRole": "Data Analyst",
-        "city": "Chandigarh"
-    },
-    {
-        "name": "Yash Choudhary",
-        "jobRole": "Data Analyst",
-        "city": "Chandigarh"
-    },
-    {
         "name": "Akshay Gupta",
         "jobRole": "SDE",
         "city": "Pune"
+    },
+    {
+        "name": "Sohail Khan",
+        "jobRole": "Data Analyst",
+        "city": "Chandigarh"
     },
     {
         "name": "Srinivasan",
@@ -33,6 +28,11 @@
         "name": "Rajul Sharma",
         "jobRole": "Data Analyst",
         "city": "Delhi"
+    },
+    {
+        "name": "Yash Choudhary",
+        "jobRole": "Data Analyst",
+        "city": "Chandigarh"
     },
     {
         "name": "Akash Gupta",
